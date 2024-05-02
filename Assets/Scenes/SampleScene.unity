@@ -330,10 +330,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f817cdca44be6640903bdab63ec08b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefab: {fileID: 1350408632932223185, guid: 9418717ab75b11c4e920a72e4e8fa9f6, type: 3}
+  prefab: {fileID: 6770383627377615488, guid: 9418717ab75b11c4e920a72e4e8fa9f6, type: 3}
   cubePrefab: {fileID: 1350408632932223185, guid: 889b3f2d5f8fb024788ce55c79a32a50, type: 3}
-  row: 5
-  colum: 5
+  row: 4
+  colum: 4
 --- !u!4 &1181993888
 Transform:
   m_ObjectHideFlags: 0
@@ -379,6 +379,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   map: {fileID: 1181993887}
+  random1: 01000000020000000300000004000000050000000500000005000000050000000500000005000000050000000500000005000000050000000500000005000000
+  numberTile: 2
 --- !u!4 &1596219312
 Transform:
   m_ObjectHideFlags: 0
