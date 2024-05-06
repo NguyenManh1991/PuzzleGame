@@ -29,7 +29,7 @@ public class TestC : MonoBehaviour
             cube1.name = "cube" + count++;
             testList.Add(cube1);
             //cube.transform.SetParent(transform, false);
-            cube.transform.localPosition += Vector3.up;
+            cube.transform.position += Vector3.up;
             
 
         }
